@@ -1,0 +1,20 @@
+___________________________________________________________
+
+Notebook Clasificación:
+
+https://www.kaggle.com/code/craljimenez/lung-classification
+
+
+___________________________________________________________
+
+
+Notebook Segmentación:
+
+https://www.kaggle.com/code/craljimenez/lung-segmentation
+
+___________________________________________________________
+
+Notebook Reto:
+
+https://www.kaggle.com/code/craljimenez/competencia-segmentacion-nervios
+___________________________________________________________
