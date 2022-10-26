@@ -1,24 +1,24 @@
 _____________________________________________________________________________________
 
-Notebook Clasificación:
+1)  Notebook Clasificación:
 
 https://www.kaggle.com/code/craljimenez/lung-classification
 
 ______________________________________________________________________________________
 
-Notebook Segmentación:
+2)  Notebook Segmentación:
 
 https://www.kaggle.com/code/craljimenez/lung-segmentation
 
 ______________________________________________________________________________________
 
-Notebook Reto:
+3)  Notebook Reto:
 
 https://www.kaggle.com/code/craljimenez/competencia-segmentacion-nervios
 
 ______________________________________________________________________________________
 
-Notebook App Framework
+4)  Notebook App Framework
 
 https://colab.research.google.com/drive/1U_nyIPGuWQmURWUGbx0Fc6gOoVyhG4N_?usp=sharing
 
