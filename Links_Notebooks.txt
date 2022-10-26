@@ -18,3 +18,7 @@ Notebook Reto:
 
 https://www.kaggle.com/code/craljimenez/competencia-segmentacion-nervios
 ___________________________________________________________
+
+Notebook App Framework
+
+https://colab.research.google.com/drive/1U_nyIPGuWQmURWUGbx0Fc6gOoVyhG4N_?usp=sharing
